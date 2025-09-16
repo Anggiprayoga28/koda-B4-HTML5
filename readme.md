@@ -18,5 +18,8 @@ Maka jika di enter akan muncul seperti ini:
 
 
 
-# Hasil
-![Hasil mengguankan Emmet](assets/input.png)
+# Hasil form input
+![Hasil mengguankan Emmet](assets/input2.png)
+
+# Hasil tabel survey
+![Tabel hasil survey](assets/tabel.png)
